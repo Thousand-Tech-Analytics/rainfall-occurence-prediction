@@ -49,7 +49,7 @@ Logistic Regression with a preprocessing pipeline:
 - ROC curve used to visualize class separation
 
 <p align="center">
-  <img src="images/roc_curve.png" width="520" alt="ROC curve"/>
+  <img src="images/roc_curve.jpg" width="520" alt="ROC curve"/>
 </p>
 
 ### 5) Probability Calibration
@@ -57,7 +57,7 @@ Logistic Regression with a preprocessing pipeline:
 - Observed mild under-confidence in mid-range probabilities
 
 <p align="center">
-  <img src="images/calibration_curve.png" width="520" alt="Calibration curve"/>
+  <img src="images/calibration_curve.jpg" width="520" alt="Calibration curve"/>
 </p>
 
 ### 6) Threshold Analysis
